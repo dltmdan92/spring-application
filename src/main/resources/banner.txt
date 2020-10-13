@@ -1,0 +1,5 @@
+=======================================================
+seungmoo's Spring-Boot Project
+SPRING-BOOT VER : ${spring-boot.version}
+APPLICATION VER : ${application.version}
+=======================================================
